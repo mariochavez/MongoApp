@@ -1,7 +1,7 @@
 {
   "name": "MongoApp",
   "version": "0.0.2",
-  "mongo_version": "7.0.8",
+  "mongo_version": "8.0.4",
   "description": "Mongo.app build helper",
   "main": "Gruntfile.js",
   "scripts": {
